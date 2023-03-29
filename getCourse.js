@@ -17,6 +17,7 @@ function getUdemy(){
   })
 
 }
+console.log('js');
 
 getUdemy()
 
